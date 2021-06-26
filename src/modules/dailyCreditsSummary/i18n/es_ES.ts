@@ -30,7 +30,7 @@ export default {
             textColor: 'black',
         },
         buildings: {
-            regex: /(Edificio construido|Solicitar devolución$|Building demolished without refund)/,
+            regex: /(Edificio construido|Solicitar devolución)/,
             title: 'Edificio construido/devuelto',
             backgroundColor: '#ed872d',
             textColor: 'black',
