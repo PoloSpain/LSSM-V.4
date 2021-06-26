@@ -54,12 +54,12 @@ export default {
             textColor: 'black',
         },
         alliancePatients: {
-            regex: /Hospital \\(alianza\)/,
+            regex: /Hospital \\(alianza\\)/,
             backgroundColor: '#ffff99',
             textColor: 'black',
         },
         alliancePrisoners: {
-            regex: /Policía \(alianza\)/,
+            regex: /Policía \\(alianza\\)/,
             backgroundColor: '#ffff99',
             textColor: 'black',
         },
