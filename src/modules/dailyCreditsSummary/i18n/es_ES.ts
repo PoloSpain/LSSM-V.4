@@ -70,7 +70,7 @@ export default {
             textColor: 'black',
         },
         schoolings: {
-            regex: /(education|Alliance Training Applicant)/,
+            regex: /(Formación|Alliance Training Applicant)/,
             title: 'Formación',
             backgroundColor: '#ff00ff',
             textColor: 'white',
@@ -82,8 +82,8 @@ export default {
             textColor: 'white',
         },
         fireAlarmSystemCancel: {
-            regex: /False Alarm/,
-            titel: 'False Alarms',
+            regex: /Sistema de alarma antiincendios/,
+            titel: 'Falsas Alarmas',
             backgroundColor: '#c80815',
             textColor: 'white',
         },
